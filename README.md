@@ -38,18 +38,6 @@ A modern, responsive landing page for a food delivery service. Built using HTML5
 
 ---
 
-## 📸 Screenshots
-
-_Add your screenshots here if you want to showcase the landing page._
-
----
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
-
----
-
 ## 🙋‍♀️ Author
 
 **Sanjana Maharana**  
